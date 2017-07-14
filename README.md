@@ -3,7 +3,9 @@ Simple tool to install steam apps via python using the steamcmd
 ## Prerequisites
 Make sure steamcmd and python is installed
 ### Installing
+```
 pip install py_steamcmd_installer
+```
 ## How to use:
 ```
 # import the package
